@@ -11,4 +11,4 @@
 
 [蓝V入门](https://github.com/XGuide2026/anysome-x/blob/main/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.md)
 
-[开卡只能](https://github.com/XGuide2026/anysome-x/blob/main/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97.md)
+[开卡指南](https://github.com/XGuide2026/anysome-x/blob/main/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97.md)
