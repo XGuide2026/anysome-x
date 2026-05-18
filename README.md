@@ -12,3 +12,7 @@
 [蓝V入门](https://github.com/XGuide2026/anysome-x/blob/main/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8.md)
 
 [开卡指南](https://github.com/XGuide2026/anysome-x/blob/main/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97/%E5%BC%80%E5%8D%A1%E6%8C%87%E5%8D%97.md)
+
+[X推荐算法](https://github.com/XGuide2026/anysome-x/blob/main/X%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/X%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
+
+[AI工具](https://github.com/XGuide2026/anysome-x/blob/main/AI%E5%B7%A5%E5%85%B7/AI%E5%B7%A5%E5%85%B7.md)
